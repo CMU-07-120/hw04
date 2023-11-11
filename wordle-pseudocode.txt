@@ -1,0 +1,13 @@
+Cases to cover:
+
+* Finding a word in a given word list and randomly selecting it for the game.
+* Check for the “word” in the word list set for that game every time a player guesses.
+* Validating the input given by the user (on a command line version, for example),
+  e.g. is it five letters, does it consist of actual alphabetical characters, etc.
+* How closely does the input word match the chosen word for the game and how to hint
+  to the user that they’re getting closer?
+* Evaluating guesses, which also depends on (and tracks) how many guesses a player has left.
+* Checking if the game is over and the player has exhausted their guesses.
+* ?
+
+==============================YOUR STUFF HERE==================================================
